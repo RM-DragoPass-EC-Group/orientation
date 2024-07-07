@@ -1,6 +1,5 @@
 # Welcome to DragoPass EC Group!!!
 git clone this repo for template files
-For any questions, ask me via 123090823@link.cuhk.edu.cn
 # Policies
 This assignment allows collaboration, online searching, generative AI. But please cite the origin of those content in your solution with comment. 
 
@@ -57,4 +56,4 @@ A lot of bonus points for innovative ideas
 # Submission
 1. Write the solution for each question in different files.
 2. Compress your answers into one .zip file.
-3. Send the compressed file to 123090823@link.cuhk.edu.cn
+3. Send the compressed file to ST_UAGV@link.cuhk.edu.cn
