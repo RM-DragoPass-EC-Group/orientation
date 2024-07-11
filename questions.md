@@ -40,7 +40,7 @@ Check [Dev Standard](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/
 ### Grading
 50% for implementing the program (Because you are not able to test whether the program will run, minor mistakes are accepted.)
 
-10% each for implementing helper functions
+10% each for implementing helper functions (PID_Init, Basic_PID_Controller, forward_kinematic, backward_kinematic)
 
 9% for coding style (loose standard)
 
