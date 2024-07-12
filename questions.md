@@ -38,19 +38,25 @@ Chassis_Task:
 Check [Dev Standard](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Development%20Standard/Development%20Standard.md) for info about dev standard.
 
 ### Grading
-50% for implementing the program
-10% each for implementing helper functions
+50% for implementing the program (Because you are not able to test whether the program will run, minor mistakes are accepted.)
+
+10% each for implementing helper functions (PID_Init, Basic_PID_Controller, forward_kinematic, backward_kinematic)
+
 9% for coding style (loose standard)
 
 ## Task2: Your Idea About Robomaster EC Group
 ### Tasks
 Anything about Robomaster EC Group.
+
 Creative ideas, innovative designs, comments, ...
+
 Write a paragraph about it.
 
 ### Grading
 1% for finishing
+
 A little bonus for reasonable comments
+
 A lot of bonus points for innovative ideas
 
 # Submission

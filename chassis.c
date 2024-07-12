@@ -92,7 +92,7 @@ float Basic_PID_Controller(PIDConfig_t* pid, float target_value, float current_v
     * @param: motor: Pointer to the motor
     * @retval: none
     * @comment: e.g. 
-        Motor_t motor1;
+        Motor_t* motor1;
         Motor_Get_Data(motor1); // This gets the data from motor1
 */
 void Motor_Get_Data(Motor_t* motor);
